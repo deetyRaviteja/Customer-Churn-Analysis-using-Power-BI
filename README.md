@@ -1,38 +1,47 @@
-# Customer-Churn-Analysis-using-Power-BI
-A Power BI project for predicting customer churn and segmenting customers by risk. Built with Power BI Desktop and Excel, it enables businesses to reduce churn, improve satisfaction, and make data-driven decisions through actionable insights and clear dashboards.
 
+Customer Churn Analysis in Power BI
+Overview
+This project leverages Power BI Desktop and Excel to analyze customer behavior and predict churn risk. It empowers businesses to take proactive measures to retain customers, improve satisfaction, and make informed decisions based on data-driven insights.
 
-## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
+What I Made
+Customer Churn Dashboard: A visually interactive Power BI dashboard that predicts churn risk using historical data.
+Customer Risk Analysis Dashboard: A segmentation tool that categorizes customers based on shared characteristics and churn likelihood.
+Email Communication Framework: Clear, actionable summaries to assist stakeholders in understanding and acting on insights.
+How I Made It
+Data Preparation:
 
-## **Key Features:**
-📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
+Imported raw customer data using Excel.
+Cleaned and transformed the data using Power Query in Power BI.
+Modeling and Calculations:
 
-📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
+Created measures and calculated columns for key metrics like churn probability and customer segmentation.
+Used DAX (Data Analysis Expressions) for advanced calculations.
+Visualization:
 
-## **Built with:**
-1. Power BI Desktop
-2. Excel
+Designed dynamic visuals such as bar charts, pie charts, and slicers in Power BI.
+Built interactive reports that allow stakeholders to explore churn patterns by customer segments.
+Insights Communication:
 
-## Key Insights:
-
-## **Benefits:**
-1. Reduce customer loss: Identify and help customers at risk to keep them longer.
-2. Improve customer satisfaction: Understand customer needs better for better service.
-3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
-
-https://github.com/deetyRaviteja/Customer-Churn-Analysis-using-Power-BI/blob/main/Customer%20Risk%20Analysis.png
-
-## **Beyond the Dashboard: Communication for Impact**
-Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails,
-I:
-- Shared important findings: Summarized data nicely focusing on what matters.
-- Tailored messages: Adjusted my language to match the client's knowledge level.
-- Suggested actions: Gave specific advice on what to do next.
-
-**Get Started:**
-1. Get the project files.
-2. Open the Customer Churn Dashboard.pbix & Customer Risk Analysis Dashboard.pbix in Power BI Desktop.
-3. Connect to your data source.
-4. Start improving customer retention!
-
-Use data insights and Power BI dashboards to keep customers happy and engaged. Note: This version highlights the project's benefits for businesses and includes a clear call to action.
+Highlighted actionable insights through annotated visuals.
+Suggested data-driven strategies for customer retention in written reports.
+Features
+Predictive Churn Modeling: Identify customers at risk of leaving.
+Customer Segmentation: Classify customers by risk levels and shared traits.
+Interactive Visualizations: Dynamic dashboards for better decision-making.
+Getting Started
+Clone this repository:
+bash
+Copy code
+git clone https://github.com/deetyRaviteja/Customer-Churn-Analysis-in-Power-BI.git
+Open the .pbix files in Power BI Desktop:
+Customer Churn Dashboard.pbix
+Customer Risk Analysis Dashboard.pbix
+Connect to your data source or use the sample data provided.
+Explore the dashboards to uncover customer behavior patterns.
+Built With
+Power BI Desktop: For data modeling, visualization, and reporting.
+Excel: For initial data collection and preprocessing.
+Why This Matters
+Helps businesses reduce customer loss by addressing churn risk proactively.
+Provides actionable insights for personalized customer engagement.
+Simplifies complex data into easy-to-understand visuals for strategic decisions.
