@@ -20,6 +20,8 @@ A Power BI project for predicting customer churn and segmenting customers by ris
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
 
+https://github.com/deetyRaviteja/Customer-Churn-Analysis-using-Power-BI/blob/main/Customer%20Risk%20Analysis.png
+
 ## **Beyond the Dashboard: Communication for Impact**
 Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails,
 I:
